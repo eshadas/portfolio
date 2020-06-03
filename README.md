@@ -1,1 +1,1 @@
-This is a simple portfolio page.
+This is a simple portfolio website.
